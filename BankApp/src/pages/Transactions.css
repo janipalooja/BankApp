@@ -1,0 +1,9 @@
+.amount {
+    font-weight: bold;
+    position: absolute;
+    right: 15px
+}
+
+.transactionList {
+    background-color: #222428;
+}
